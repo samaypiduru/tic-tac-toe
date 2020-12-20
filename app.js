@@ -24,7 +24,7 @@ const wins = [
 ];
 
 resetBoard();
-checkGameOver();
+//checkGameOver();
 
 // resets board at the start of the game
 function resetBoard() {
